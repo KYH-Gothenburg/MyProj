@@ -1,0 +1,21 @@
+Standup 9 feb
+    Protokollföärare: Eva
+    Deltagare:
+        Joakim
+        Lisa
+        Anna
+        Sven
+
+    Sedan sist:
+        Joakim:
+            Är klar med IOT-7
+            Fick problem med IOT-3. Jag fattade inte hur jag skulle...
+
+    Till nästa gång:
+        Joakim:
+            Slutföra IOT-8
+            Påbörja IOT-9
+            Fixa IOT-23
+
+
+Standup 10 feb
